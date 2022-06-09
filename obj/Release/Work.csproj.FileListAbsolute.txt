@@ -1,0 +1,53 @@
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.csproj.AssemblyReference.cache
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Form1.resources
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Form2.resources
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Form3.resources
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Form4.resources
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Ivan.resources
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Properties.Resources.resources
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.csproj.GenerateResource.cache
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.csproj.CoreCompileInputs.cache
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Form5.resources
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Form7.resources
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Work.Form6.resources
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Проблемы\Не заходит на сайт\Решение.txt
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Проблемы\Ошибка целостности VPN client\ИНСТРУКЦИЯ к ошибке.txt
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Проблемы\Проблемма с сертификатами\Инструкция к ошибке.txt
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Установка\Continent_AP_3.7.7.625.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Установка\Континент АП v3.7.7.651.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\1 ИНСТРУКЦИЯ.txt
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\cadesplugin.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\sputnik-browser-crypto.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Yandex.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Инструкция.txt
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\КриптоПРО CSP\cadesplugin.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\КриптоПРО CSP\CSPSetup_4.0.9944.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СТЭК-траст\trustclient_setup_lite.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Проблемы\Ошибка целостности VPN client\Change.bat
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Проблемы\Ошибка целостности VPN client\Test.bat
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Проблемы\Проблемма с сертификатами\fix_setup_cert.bat
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Континент-АП\Проблемы\Типовые ошибки и как с ними бороться\Типовые ошибки и способы их решения для СКЗИ Континент АП_579_24_11_2020(ver1).DOCX
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\CA\cert_ufk.cer
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\CA\Kaznacheystvo-Rossii.CER
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\CA\uts-fk_2020.cer
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\CA\UTS-FK_2021.CER
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\certs.bat
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\Root\cert_minkom.cer
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\Root\cert_ufk_gol.cer
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\Root\Kornevoy-sertifikat-GUTS-2022.CER
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\Certs\Root\rootca_ssl_rsa2022.cer
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\ЕИС\IFCPlugin-x64.msi
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СКЗИ\КриптоПРО CSP\Инструкция+по+настройке+рабочего+места.docx
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СТЭК-траст\Doc1.docx
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СТЭК-траст\ETALON.GDB
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\СТЭК-траст\TrustClient108.zip
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Workspace OIT.exe.config
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Workspace OIT.exe.manifest
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Workspace OIT.application
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Workspace OIT.exe
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Workspace OIT.pdb
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Workspace OIT.exe.manifest
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Workspace OIT.application
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Workspace OIT.exe
+C:\Users\DomashenkoIK\source\repos\Work\obj\Release\Workspace OIT.pdb
+C:\Users\DomashenkoIK\source\repos\Work\bin\Release\Files\Patch Notes.txt

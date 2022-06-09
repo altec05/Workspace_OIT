@@ -1,0 +1,2 @@
+REG DELETE "HKLM\SOFTWARE\Microsoft\Cryptography\OID\EncodingType 1\CryptDllImportPublicKeyInfoEx\1.2.643.7.1.1.1.1" /f
+REG DELETE "HKLM\SOFTWARE\Wow6432Node\Microsoft\Cryptography\OID\EncodingType 1\CryptDllImportPublicKeyInfoEx\1.2.643.7.1.1.1.1" /f

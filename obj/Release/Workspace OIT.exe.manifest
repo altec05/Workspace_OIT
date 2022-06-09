@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Workspace OIT.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
+  <description asmv2:iconFile="pxm-VN1K8MfJaQOljhfGX930fZbu5tKq9-NLA5JTUsxWt0LTRkBDmoXTm_C1S9A7KXvRFzqX.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Workspace OIT" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+    <commandLine file="Workspace OIT.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Workspace OIT.exe" size="283592">
+      <assemblyIdentity name="Workspace OIT" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kHwo8eUP+XHEMNZ+XEjpSRmZgvopvOdMRhJacbjNADQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Files\Patch Notes.txt" size="755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Ibu7OI5CDG1opIjqnYEptUx+djPyVItaFbxlkOMnRkE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\Континент-АП\Проблемы\Не заходит на сайт\Решение.txt" size="859">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Li3YTUK3IeQvPlCYdMHwDbsajlcUzE811d1RG3Ch+gQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\Континент-АП\Проблемы\Ошибка целостности VPN client\ИНСТРУКЦИЯ к ошибке.txt" size="543">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>DqLlkB46lL14r27Zp+7PzCrlFI2M6Rv/c1yRT3r7yBE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\Континент-АП\Проблемы\Проблемма с сертификатами\Инструкция к ошибке.txt" size="556">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1tUkB6YOmQhgMMwbZJ6OdbiqzlH0i5CQsUutIk9BWpM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\Континент-АП\Установка\Continent_AP_3.7.7.625.exe" size="49178328">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TJYKoGcQqGuqj4UT0+E98gMabyy/vH9K7gbPLwSwWZc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\Континент-АП\Установка\Континент АП v3.7.7.651.exe" size="49138664">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1gk4TXpBWFxQaQ2jDyWdqwNoTWEaZV42T40Drzi1qP0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\СКЗИ\ЕИС\1 ИНСТРУКЦИЯ.txt" size="7570">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TkrQfWNSlzz5/xl2Iurncvvyxme3V/6i7JoG480yzRA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\СКЗИ\ЕИС\cadesplugin.exe" size="11571720">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>iiFZ2s0GNpcMLr4JdLWnfByHvHFCLb9nacrdqlqwHco=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\СКЗИ\ЕИС\sputnik-browser-crypto.exe" size="87394688">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c+Bur+zRE5OotTA3gBvgzGqDtoU0/o6UPHx24gG+Ey4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\СКЗИ\ЕИС\Yandex.exe" size="2653536">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uw3VreA4A9JqlWHsT1wJ+t9rbbMb2Y8ozQdyJT6JlkA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\СКЗИ\ЕИС\Инструкция.txt" size="7819">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6753bgaKcuNvPpSgCLBVhGIOXcHCAGusAAnjRUlauxY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\СКЗИ\КриптоПРО CSP\cadesplugin.exe" size="8301304">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6ZmQST9gbY55B4rMRX2g2nOG31KdOOE1hqxVH9SqVcI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\СКЗИ\КриптоПРО CSP\CSPSetup_4.0.9944.exe" size="6014048">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8hOXDJveJKe3dOFoA7nfm+aeAvF5XndyQa2lIB7XJmY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\СТЭК-траст\trustclient_setup_lite.exe" size="11505200">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RCrHNy27ALemCObBm/hx3xwzAxdLNA4Ex7VBNnvFNus=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="pxm-VN1K8MfJaQOljhfGX930fZbu5tKq9-NLA5JTUsxWt0LTRkBDmoXTm_C1S9A7KXvRFzqX.ico" size="235582">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>QYQNDc/tY0+QA27GT+Kf5+YxZXsZ5/d0jcCPhkepW6M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Workspace OIT.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

@@ -1,0 +1,1 @@
+"C:\Program Files\Security Code\Terminal Station\ngc.exe" /b
